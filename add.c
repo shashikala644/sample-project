@@ -4,3 +4,4 @@ pine apple
 apples
 apples and flowers
 flowers
+fruits
